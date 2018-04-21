@@ -1,1 +1,1 @@
-//Twój kod
+//Twój kodd
